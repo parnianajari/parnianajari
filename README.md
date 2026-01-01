@@ -23,5 +23,5 @@
   
 ## ⚙️ Skills and Tools
 <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,mongodb,postman,git,github,wordpress&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,postgresql,mongodb,postman,git,github,wordpress&theme=dark" />
 </a>
